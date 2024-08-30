@@ -20,7 +20,7 @@ Installation
 To run these projects, you need to have a C++ compiler installed on your system. Follow these steps to compile and run the projects:
 
 Clone the repository:
-git clone https://github.com/your-username/Learning_Journey_Projects.git
+git clone (https://github.com/Siramdas-Shreehith/Learning-Journey-Projects-CPP.git)
 cd Learning_Journey_Projects
 
 Compile the project files:
